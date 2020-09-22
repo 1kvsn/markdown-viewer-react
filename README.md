@@ -2,36 +2,15 @@
 
 ===============================
 
-## Project Live at:
+## Deployed at:
 
-https://example.netlify.app
+https://mdreact.netlify.app/
 
 ===============================
 
 ## Features:
 
   - You can type your markdown on the left and see them rendered live on the right side.
-
-## Some code sample
-```js
-import React from 'react';
-import ReactDOM from 'react-dom';
-
-ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
-);
-```
-
-## You can make tables as well.
-| Feature   | Support |
-| --------- | ------- |
-| feature1    | ✔ |
-| feature2    | ✔ |
-| feature3    | ✔ |
-
 
 ## Available Scripts
 
